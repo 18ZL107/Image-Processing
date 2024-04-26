@@ -25,14 +25,5 @@ This Python project focuses on image manipulation and enhancement techniques for
 - This project is designed for educational purposes and provides a hands-on learning experience in image processing techniques.
 - Users are encouraged to experiment with different image manipulation operations and observe their effects on image quality and visual appearance.
 
-**Contributing:**
-- Contributions, feedback, and suggestions for improvements are welcome. Please feel free to submit issues or pull requests on GitHub.
-
-**License:**
-- This project is licensed under the [MIT License](LICENSE).
-
-**Acknowledgments:**
-- Special thanks to the authors and contributors of NumPy, Pillow, PyOpenGL, and GLFW for their invaluable contributions to open-source software development.
-
 **Disclaimer:**
 - This project is intended for educational purposes only and should not be used for commercial or production purposes without proper validation and testing.
